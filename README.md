@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![malangcongdduck's github!](https://github-readme-stats.vercel.app/api?username=malangcongdduck&show_icons=true)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=malangcongdduck)](https://solved.ac/malangcongdduck)
 <!--
 **malangcongdduck/malangcongdduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
