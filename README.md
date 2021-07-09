@@ -24,8 +24,6 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=malangcongdduck)](https://solved.ac/malangcongdduck)
 
-### ⏱ Study time
-[![malangcongdduck's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=malangcongdduck)](https://wakatime.com/@malangcongdduck)
 
 ### 📫 Contacts me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cielciel107@gmail.com)](mailto:cielciel107@gmail.com)
