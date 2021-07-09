@@ -15,6 +15,7 @@
 |    **Type**   |   **Date**  |         **Contents**         |       **Organization**      |
 |:-------------:|:-----------:|:----------------------------:|:---------------------------:|
 | **Education** | 2019.3<br>~ | Department<br>of<br>Software | **Sangmyung<br>University** |
+| **Research activities** | 2021.4<br>~ | Undergraduate<br>Research<br>Students | **IS-Lab** |
 
 
 ### 💻 Online Judge 
