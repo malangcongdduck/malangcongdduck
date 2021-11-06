@@ -16,6 +16,7 @@
 |:-------------:|:-----------:|:----------------------------:|:---------------------------:|
 | **Education** | 2019.3<br>~ | Department<br>of<br>Software | **Sangmyung<br>University** |
 | **Research activities** | 2021.4<br>~ | Undergraduate<br>Research<br>Students | **IS-Lab** |
+| **Intern** | 2021.7.5<br>~2021.8.27 | Clinical criteria text mining<br>using UMLS dictionary | **Class<br>ACT** |
 
 
 ### 💻 Online Judge 
