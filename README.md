@@ -18,13 +18,5 @@
 | **Research activities** | 2021.4<br>~ | Undergraduate<br>Research<br>Students | **IS-Lab** |
 | **Intern** | 2021.7.5<br>~2021.8.27 | Clinical criteria text mining<br>using UMLS dictionary | **Class<br>ACT** |
 
-
-### 💻 Online Judge 
-* BOJ: [malangcongdduck](http://icpc.me/malangcongdduck)
-* solvedac: [malangcongdduck](https://solved.ac/profile/malangcongdduck)
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=malangcongdduck)](https://solved.ac/malangcongdduck)
-
-
 ### 📫 Contacts me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cielciel107@gmail.com)](mailto:cielciel107@gmail.com)
