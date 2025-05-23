@@ -14,8 +14,10 @@
 ### 🐾 Carrer
 |    **Type**   |   **Date**  |         **Contents**         |       **Organization**      |
 |:-------------:|:-----------:|:----------------------------:|:---------------------------:|
-| **Education** | 2019.3<br>~ | Department<br>of<br>Software | **Sangmyung<br>University** |
-| **Research activities** | 2021.4<br>~ | Undergraduate<br>Research<br>Students | **IS-Lab** |
+| **Undergraduate** | 2019.3<br>~2022.2 | Department<br>of<br>Software | **Sangmyung<br>University** |
+| **Master's** | 2022.3<br>~2023.8 | Department<br>of<br>Software | **Sangmyung<br>University** |
+| **Ph.D** | 2023.9<br>~ | Department<br>of<br>Software | **Sangmyung<br>University** |
+| **Research activities** | 2021.4<br>~ | Research<br>Students | **LOG-LAB** |
 | **Intern** | 2021.7.5<br>~2021.8.27 | Clinical criteria text mining<br>using UMLS dictionary | **Class<br>ACT** |
 
 ### 📫 Contacts me
